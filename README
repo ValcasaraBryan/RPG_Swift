@@ -12,3 +12,16 @@ Vous avez trois possibilites:
 "Ameliorer son arme" et "se soigner" sont soumis a la RNG
 
 Le but du jeu est de mettre son adversaire K.O.
+
+----------------------------------------------------
+Compiler le projet avec la commande
+
+"swiftc main.swift Personne.swift -o RPG"
+
+Puis executer le programme avec la commande
+
+"./RPG"
+
+Logiciel requis:
+
+xcode 10.1 ou ulterieur
