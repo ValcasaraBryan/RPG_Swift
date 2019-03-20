@@ -25,3 +25,10 @@ Puis executer le programme avec la commande
 Logiciel requis:
 
 xcode 10.1 ou ulterieur
+
+----------------------------------------------------
+
+ATTENTION :
+
+Ce projet n'est absolument pas protege contre les mauvaises donnees fournisses
+Si le programme vous demande d'entre "1 - Attaquer", taper "1"
