@@ -1,15 +1,15 @@
 Bonjour,
 
-Ceci est mon tout premier projet en swift, tres basiquement deux joueurs peuvent se combattre tour par tour.
+Ceci est mon tout premier projet en swift, très basiquement deux joueurs peuvent se combattre tour par tour.
 
-A chaque tour vos HP et votre ATK sont affiche.
+A chaque tour vos HP et votre ATK sont affiché.
 
-Vous avez trois possibilites:
+Vous avez trois possibilités:
 - Attaquer
-- Ameliorer son arme
+- Améliorer son arme
 - Se soigner
 
-"Ameliorer son arme" et "se soigner" sont soumis a la RNG
+"Améliorer son arme" et "se soigner" sont soumis a la RNG
 
 Le but du jeu est de mettre son adversaire K.O.
 
@@ -18,19 +18,19 @@ Compiler le projet avec la commande
 
 "swiftc main.swift Personne.swift -o RPG"
 
-Puis executer le programme avec la commande
+Puis éxécuter le programme avec la commande
 
 "./RPG"
 
 Logiciel requis:
 
-xcode 10.1 ou ulterieur
+xcode 10.1 ou ultérieur
 
 ----------------------------------------------------
 
 ATTENTION :
 
-Ce projet n'est absolument pas protege contre les mauvaises donnees fournisses
-Si le programme vous demande d'entre "1 - Attaquer", taper "1"
+Ce projet n'est absolument pas protégé contre les mauvaises données fournisses
+Si le programme vous demande d'entrer "1 - Attaquer", taper "1"
 
-20/03/2019
+VALCASARA Bryan 20/03/2019
